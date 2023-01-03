@@ -3,5 +3,6 @@
 Here I will post machine learning tutorials from beignning to advanced levels. 
 
 1. [Classification](https://github.com/muntazirabidi/machine_learning_tutorials/blob/main/Classification.ipynb)
-2. [Multiclass Classification](https://github.com/muntazirabidi/machine_learning_tutorials/blob/main/multiclass_classification.ipynb)
+    * Binary classification
+3. [Multiclass Classification](https://github.com/muntazirabidi/machine_learning_tutorials/blob/main/multiclass_classification.ipynb)
 
