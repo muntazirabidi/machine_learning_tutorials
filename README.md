@@ -17,13 +17,6 @@ Here I will post machine learning tutorials from beignning to advanced levels.
     * Multilabel Classification
     * Multioutput Classification
    
-3. [Training Models]()
-    * Linear Regression 
-    * The Normal Equation
-    * Gradient Descent 
-    * Batch Gradient Descent 
-    * Stochastic Gradient Descent 
-    * Mini-Batch Gradient Descent 
-    * Polynomial Regression 
+
 
 
